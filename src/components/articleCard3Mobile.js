@@ -12,7 +12,7 @@ const ArticleCard3Mobile=()=>{
             <p>{cardData.ArticleCard3Mobile.Author}</p>
         </div>
         
-        <img src={ArticleCard3MobileImage}/>
+        <img src={ArticleCard3MobileImage} alt="ArticleCard3MobileImage"/>
 </div>
 </>
     );
